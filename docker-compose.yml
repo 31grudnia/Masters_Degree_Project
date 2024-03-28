@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+
+  backend:
+    build: 
+      context: ./backend        
+      dockerfile: Dockerfile
+    ports:
+      - '8000:8000'
+    volumes:
+      - ./backend:/masters_degree_project/backend
+    command: bash -c "python manage.py runserver 0.0.0.0:8000"
+    restart: always
+
+  frontend:
+    build: 
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./frontend:/masters_degree_project/frontend
+    depends_on:
+      - backend
+    restart: always
