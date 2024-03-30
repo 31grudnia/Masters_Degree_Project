@@ -1,6 +1,6 @@
 version: '3.8'
-services:
 
+services:
   backend:
     build: 
       context: ./backend        
@@ -23,3 +23,12 @@ services:
     depends_on:
       - backend
     restart: always
+  
+  jupyter:
+    image: jupyter/tensorflow-notebook:latest
+    environment:
+      - JUPYTER_TOKEN=password
+    volumes:
+      - ./backend:/home/jovyan/work
+    ports:
+      - '8888:8888'
