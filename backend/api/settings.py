@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'corsheaders',
 
     'testapp',
+    'MNIST_app',
 ]
 
 CORS_ORIGIN_WHITELIST = [

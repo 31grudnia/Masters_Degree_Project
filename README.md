@@ -3,5 +3,6 @@
 <b>Used Technologies</b>
 - Django with Django Rest Framework
 - React with Typsecript 
-- Docker 
+- Docker
+- Tensorflow with Jupyter
 
