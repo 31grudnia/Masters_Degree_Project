@@ -2,8 +2,8 @@
 
 <b>Prolog:</b>
 
-- [x] make site refreshing
-- [x] i want to see backend (add django_rest_framerok?)
+- [x] Make site refreshing
+- [x] I want to see backend (add django_rest_framerok?)
 
 ---
 
@@ -13,6 +13,7 @@
 - [ ] Make two MML models for Python and MOJO
     - [ ] Create a MNIST app
         - [X] Extract data to Train, Test and Validate sets
+        - [ ] Create One Hot Encoder
         - [ ] Create Neural Network
         - [ ] Create Optimizer
         - [ ] Create Loss Function
