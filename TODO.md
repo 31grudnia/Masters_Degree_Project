@@ -22,8 +22,8 @@
       - [x] Weights
       - [x] Bias
     - [x] Forward Propagation
-    - [ ] Back Propagation
-    
+    - [X] Back Propagation
+
     - [ ] Create Neural Network
     - [ ] Create Optimizer
     - [ ] Create Loss Function
