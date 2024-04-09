@@ -16,9 +16,11 @@
     - [x] Activation Functions & Derivatives
       - [x] Relu
       - [x] Soft
-    - [ ] Initialization
-      - [ ] Weights
-      - [ ] Bias
+    - [X] Initialization
+      - [X] Weights
+      - [X] Bias
+    - [X] Forward Propagation
+
     - [ ] Create Neural Network
     - [ ] Create Optimizer
     - [ ] Create Loss Function
