@@ -23,7 +23,7 @@
       - [x] Bias
     - [x] Forward Propagation
     - [X] Back Propagation
-
+    - [X] Update parameters
     - [ ] Create Neural Network
     - [ ] Create Optimizer
     - [ ] Create Loss Function
