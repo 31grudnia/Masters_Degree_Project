@@ -22,13 +22,13 @@
       - [x] Weights
       - [x] Bias
     - [x] Forward Propagation
-    - [X] Back Propagation
-    - [X] Update parameters
+    - [x] Back Propagation
+    - [x] Update parameters
     - [ ] Create Neural Network
     - [ ] Create Optimizer
     - [ ] Create Loss Function
     - [ ] Gather measures for models
-      - [X] Cost calculation
+      - [x] Cost calculation + graph
   - [ ] Host Models to App
 
 - [ ] Gather test photos to Firebase !!!
