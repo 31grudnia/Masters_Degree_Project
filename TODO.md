@@ -23,8 +23,10 @@
     - [ ] Back Propagation
     - [ ] Update parameters
     - [ ] Create Neural Network
-    - [ ] Create Optimizer
-    - [ ] Create Loss Function
+    - [X] Create Optimizers
+      - [X] SGD
+    - [X] Create Loss Functions
+      - [X] Categorical Crossentropy
     - [ ] Gather measures for models
       - [ ] Cost calculation + graph
   - [ ] Host Models to App
