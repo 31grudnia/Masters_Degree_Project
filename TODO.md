@@ -18,9 +18,10 @@
     - [X] Activation Functions 
       - [X] Relu
       - [X] Soft
-    - [ ] Initialization of parameters
+    - [X] Initialization of parameters
     - [ ] Forward Propagation
     - [ ] Back Propagation
+    - [X] Dropout
     - [ ] Update parameters
     - [ ] Create Neural Network
     - [X] Create Optimizers
