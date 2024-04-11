@@ -13,11 +13,11 @@
 
   - [ ] Create a Neural Network for MNIST in Python
 
-    - [x] Extract data to Train, Test and Validate sets
-    - [ ] Create One Hot Encoder
-    - [ ] Activation Functions & Derivatives
-      - [ ] Relu
-      - [ ] Soft
+    - [X] Extract data to Train, Test and Validate sets
+    - [X] Create One Hot Encoder
+    - [X] Activation Functions 
+      - [X] Relu
+      - [X] Soft
     - [ ] Initialization of parameters
     - [ ] Forward Propagation
     - [ ] Back Propagation
