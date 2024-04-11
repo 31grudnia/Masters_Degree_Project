@@ -19,11 +19,11 @@
       - [X] Relu
       - [X] Soft
     - [X] Initialization of parameters
-    - [ ] Forward Propagation
-    - [ ] Back Propagation
+    - [X] Forward Propagation
+    - [X] Back Propagation
     - [X] Dropout
-    - [ ] Update parameters
-    - [ ] Create Neural Network
+    - [X] Update parameters
+    - [X] Create Neural Network
     - [X] Create Optimizers
       - [X] SGD
     - [X] Create Loss Functions
