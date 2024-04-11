@@ -14,21 +14,19 @@
   - [ ] Create a Neural Network for MNIST in Python
 
     - [x] Extract data to Train, Test and Validate sets
-    - [x] Create One Hot Encoder
-    - [x] Activation Functions & Derivatives
-      - [x] Relu
-      - [x] Soft
-    - [x] Initialization
-      - [x] Weights
-      - [x] Bias
-    - [x] Forward Propagation
-    - [x] Back Propagation
-    - [x] Update parameters
+    - [ ] Create One Hot Encoder
+    - [ ] Activation Functions & Derivatives
+      - [ ] Relu
+      - [ ] Soft
+    - [ ] Initialization of parameters
+    - [ ] Forward Propagation
+    - [ ] Back Propagation
+    - [ ] Update parameters
     - [ ] Create Neural Network
     - [ ] Create Optimizer
     - [ ] Create Loss Function
     - [ ] Gather measures for models
-      - [x] Cost calculation + graph
+      - [ ] Cost calculation + graph
   - [ ] Host Models to App
 
 - [ ] Gather test photos to Firebase !!!
