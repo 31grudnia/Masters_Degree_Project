@@ -28,8 +28,8 @@
       - [X] SGD
     - [X] Create Loss Functions
       - [X] Categorical Crossentropy
+
     - [ ] Gather measures for models
-      - [ ] Cost calculation + graph
   - [ ] Host Models to App
 
 - [ ] Gather test photos to Firebase !!!
