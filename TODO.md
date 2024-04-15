@@ -24,12 +24,17 @@
     - [X] Dropout
     - [X] Update parameters
     - [X] Create Neural Network
-    - [X] Create Optimizers
-      - [X] SGD
+    - [ ] Create Optimizers
+      - [ ] SGD
     - [X] Create Loss Functions
       - [X] Categorical Crossentropy
 
     - [ ] Gather measures for models
+      - [X] Accuracy
+      - [X] Loss function
+      - [ ] Precision
+      - [ ] Recall
+      - [ ] F1Score 
   - [ ] Host Models to App
 
 - [ ] Gather test photos to Firebase !!!
