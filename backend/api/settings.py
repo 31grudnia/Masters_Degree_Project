@@ -44,6 +44,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
 
+    'MNIST_app',
+    'Emotion_Detection_app',
+    
     'testapp',
 ]
 
