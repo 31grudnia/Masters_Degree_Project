@@ -41,3 +41,13 @@
   - [ ] Hide DB settings into .env
 - [ ] Make print-alike interface for writing characters
 - [ ] Make model to predict if Image is NOT a char
+
+<b>Chapter 2</b>
+- [ ] Make a ??? App 
+  - [ ] Make model
+    - [ ]
+    - [ ]
+    - [ ] ...
+  - [ ] Make model using Tensorflow
+  - [ ] Make model using Pytorch
+  - [ ] Make model using MOJO
