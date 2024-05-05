@@ -43,11 +43,31 @@
 - [ ] Make model to predict if Image is NOT a char
 
 <b>Chapter 2</b>
-- [ ] Make a ??? App 
+- [ ] Make a Emotion Detection App 
   - [ ] Make model
     - [ ]
     - [ ]
-    - [ ] ...
+    - [ ] 
+  - [ ] Make model using Tensorflow
+  - [ ] Make model using Pytorch
+  - [ ] Make model using MOJO
+
+  <b>Chapter 3</b>
+  - [ ] Make a ??? App 
+  - [ ] Make model
+    - [ ]
+    - [ ]
+    - [ ] 
+  - [ ] Make model using Tensorflow
+  - [ ] Make model using Pytorch
+  - [ ] Make model using MOJO
+
+   <b>Chapter 4</b>
+  - [ ] Make a NLP App 
+  - [ ] Make model
+    - [ ]
+    - [ ]
+    - [ ] 
   - [ ] Make model using Tensorflow
   - [ ] Make model using Pytorch
   - [ ] Make model using MOJO
